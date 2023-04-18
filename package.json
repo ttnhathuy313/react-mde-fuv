@@ -64,5 +64,9 @@
     "vite": "^2.9.5",
     "yarn": "^1.22.18"
   },
-  "homepage": "https://github.com/andrerpena/react-mde.git#readme"
+  "homepage": "https://github.com/andrerpena/react-mde.git#readme",
+  "dependencies": {
+    "esbuild": "^0.17.17",
+    "react-router-dom": "^6.10.0"
+  }
 }
